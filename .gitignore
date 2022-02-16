@@ -1,0 +1,8 @@
+temp/
+*.pyc
+data/
+exe/
+temp/
+requirements20200602.txt
+requirements1.txt
+*.rar

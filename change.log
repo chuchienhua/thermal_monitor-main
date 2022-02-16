@@ -1,0 +1,25 @@
+v4.1.1 
+add title image 
+fix rab rate automatic
+v4.1.2
+add button for calibration 
+v4.1.3
+fix high temp
+-add Initializing compensation
+v4.2.4 (for demo)
+add logo switch
+v4.3.5 (for customer)
+add SN key function
+v4.3.6(for customer)
+Cancel SN key function
+add title switch
+v4.3.7(for customer)
+fix reset compensation
+v4.3.8(for customer)
+fix last_low_temp_check double
+v4.4.9(for temp2)
+change windows title name
+add exclude 40 up 25 down
+thermal image windows can modify
+v4.4.10(for temp2)
+add flip function
